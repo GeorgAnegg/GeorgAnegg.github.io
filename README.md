@@ -4,7 +4,10 @@ I am currently a full-time MBA fellow at [CDI](https://cdi.eu) (expected graduat
 
 ## Short CV
 
-I did my PhD (in Mathematics/Theoretical Computer Science) in the group of Rico Zenklusen at the Institute for Operations Research at ETH Zürich. 
+2023-2024 MBA at CDI  
+2018-2023 PhD at ETH Zurich  
+2016-2018 Head Tutor at AIMS  
+2012-2016 MMath&BA at University of Cambridge  
 
 You can find more information on  
 [LinkedIn](https://www.linkedin.com/in/georg-anegg/),   
@@ -21,15 +24,12 @@ You can also message me on LinkedIn.
 
 ## Software Engineering
 
-I have built custom software (from scratch to production) for various data-centric applications.
+I have built bespoke software applications from scratch to production in various data-centric domains, including scientific computing, operations research, and automation. 
 
 Tools I have used include:
-Python (numpy, pandas, flask, conda, pytest, mypy, pylint)  
-Scala  
-Matlab
-
-Docker
-GitLab CI
+- Python (numpy, pandas, scikit-learn, flask, conda, pytest, mypy, pylint), Scala, Matlab
+- Docker, GitLab CI
+- git, Linux, bash
 
 ## Education
 
@@ -44,7 +44,8 @@ Educational Psychology, and
 Intercultural Communication.
 
 2016-2018:
-I was the Head Tutor at the [African Institute for Mathematical Sciences](https://aims.ac.za/) in Cape Town, South Africa, for two years. 
+I was the Head Tutor at the [African Institute for Mathematical Sciences](https://aims.ac.za/) in Cape Town, South Africa. 
+As Head Tutor, I was responsible for all teaching-related activities in a graduate mathematics degree program. I led the team of graduate teaching assistans and also contributed to the teaching and mentoring myself.
 
 I was involved with other academic outreach and partnership efforts in Africa including [this networking event](https://indico.cern.ch/event/962934/) I co-organized and [this teaching endeavour](https://eth4d.ethz.ch/Learning/AshesiETH-Master.html) in Ghana.
 
