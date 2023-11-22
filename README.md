@@ -1,3 +1,6 @@
+
+# THIS PAGE IS UNDER CONSTRUCTION
+
 # About me
 
 I am currently a full-time MBA fellow at [CDI](https://cdi.eu) (expected graduation July 2024).
