@@ -28,7 +28,7 @@ I have built bespoke software applications from scratch to production in various
 
 Tools I have used include:
 - Python (numpy, pandas, scikit-learn, flask, conda, pytest, mypy, pylint), Scala, Matlab
-- Docker, GitLab CI
+- Docker, GitLab CI/CD
 - git, Linux, bash
 
 ## Education
