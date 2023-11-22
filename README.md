@@ -6,11 +6,11 @@ I am currently a full-time MBA fellow at [CDI](https://cdi.eu) (expected graduat
 
 I did my PhD (in Mathematics/Theoretical Computer Science) in the group of Rico Zenklusen at the Institute for Operations Research at ETH Zürich. 
 
-You can find more information on 
-[LinkedIn](https://www.linkedin.com/in/georg-anegg/) 
-[my Research homepage](https://people.math.ethz.ch/~ganegg/)  
-[GoogleScholar](https://scholar.google.com/citations?user=sr4ehiYAAAAJ&hl=en)  
-[dblp](https://dblp.org/pid/262/8265.html)  
+You can find more information on  
+[LinkedIn](https://www.linkedin.com/in/georg-anegg/),   
+[my Research homepage](https://people.math.ethz.ch/~ganegg/),   
+[GoogleScholar](https://scholar.google.com/citations?user=sr4ehiYAAAAJ&hl=en),   
+[dblp](https://dblp.org/pid/262/8265.html).  
 
 ## Get in touch
 
