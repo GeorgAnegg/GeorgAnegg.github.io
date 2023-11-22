@@ -38,7 +38,7 @@ Tools I have used include:
 
 I find learning and teaching to be among the most satisfying activities.
 
-Here are some of my teaching activities
+My education-related endeavor include the following.  
 2018-2023:
 During my doctoral studies, I have given lectures, developed teaching and assessment materials, and have supervised student research projects.
 At ETH, I have also taken courses on  
@@ -53,12 +53,12 @@ As Head Tutor, I was responsible for all teaching-related activities in a gradua
 I was involved with other academic outreach and partnership efforts in Africa including [this networking event](https://indico.cern.ch/event/962934/) I co-organized and [this teaching endeavour](https://eth4d.ethz.ch/Learning/AshesiETH-Master.html) in Ghana.
 
 2012-2014:
-I used to compete in mathematics competitions (Bronze Medal IMO 2011, Second Price IMC 2012) and have also been involved in teaching efforts in this area.
-I have contributed a number of original problems that have appeared in national competitions in Austria.
+After competing in mathematics competitions (Bronze Medal IMO 2011, Second Price IMC 2012), I got involved in teaching efforts in this area, i.e. competition preparation.
+I have also supervised competitions and have authored a number of original problems that have appeared in national competitions in Austria.
 
 ## Research
 
-I am interested in both theoretical and applied research in the field of optimization algorithms.
+I am interested in both theoretical and applied research in the fields of Operations Research (Modelling, Mathematical Programming) and Optimization Algorithms (Combinatorial Optimization, Approximation Algorithms).
 
 ### Applied Research
 
@@ -71,5 +71,4 @@ In 2022, I spent nine-months at Huawei's Zurich Research Center in the Computing
 ### Theoretical Research
 
 My main research interest is designing approximation algorithms for various Combinatorial Optimization problems, in particular fair clustering problems. You can find my publications on Google Scholar and dblp.
-
 
