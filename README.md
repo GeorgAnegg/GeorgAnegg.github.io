@@ -13,10 +13,7 @@ I am currently a full-time MBA fellow at [CDI](https://cdi.eu) (expected graduat
 2012-2016 MMath&BA at University of Cambridge  
 
 You can find more information on  
-[LinkedIn](https://www.linkedin.com/in/georg-anegg/),   
-[my Research homepage](https://people.math.ethz.ch/~ganegg/),   
-[GoogleScholar](https://scholar.google.com/citations?user=sr4ehiYAAAAJ&hl=en),   
-[dblp](https://dblp.org/pid/262/8265.html).  
+[LinkedIn](https://www.linkedin.com/in/georg-anegg/) and [my Research homepage](https://people.math.ethz.ch/~ganegg/).
 
 ## Get in touch
 
@@ -60,6 +57,10 @@ I have also supervised competitions and have authored a number of original probl
 
 I am interested in both theoretical and applied research in the fields of Operations Research (Modelling, Mathematical Programming) and Optimization Algorithms (Combinatorial Optimization, Approximation Algorithms).
 
+You can find my published work on 
+[GoogleScholar](https://scholar.google.com/citations?user=sr4ehiYAAAAJ&hl=en) and
+[dblp](https://dblp.org/pid/262/8265.html).  
+
 ### Applied Research
 
 I have worked with a number of industry partners who are interested in applying Operations Research.
@@ -70,5 +71,6 @@ In 2022, I spent nine-months at Huawei's Zurich Research Center in the Computing
 
 ### Theoretical Research
 
-My main research interest is designing approximation algorithms for various Combinatorial Optimization problems, in particular fair clustering problems. You can find my publications on Google Scholar and dblp.
+My doctoral research revolved around designing approximation algorithms for various Combinatorial Optimization problems, in particular fair clustering problems. 
+Together with coworkers, we made progress on open problems by developing new algorithmic techniques that lead to stronger algorithms for particular classes of problems.
 
