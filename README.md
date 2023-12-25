@@ -61,7 +61,7 @@ You can find my published work on
 
 ### Applied Research
 
-I have worked with a number of industry partners who are interested in applying Operations Research to their business problems.
+I have worked on a number of consulting projects while at ETH. We mainly worked with industry partners who are interested in applying Operations Research to their business problems.
 These include Helvetiv Motion, the Federal Office of Public Health Switzerland, and the Academic Services of ETH Zurich.
 
 Additionally, I have conducted research on fundamental algorithmic questions in computer architecture at Huawei's Zurich Research Center. 
