@@ -25,8 +25,8 @@ You can also message me on LinkedIn.
 I have built bespoke software applications from scratch to production in various data-centric domains, including scientific computing, operations research, and automation. 
 
 Tools I have used include:
-- Python (numpy, pandas, scikit-learn, flask, conda, pytest, mypy, pylint), Scala, Matlab
-- Docker, GitLab CI/CD
+- Python (numpy, pandas, scikit-learn, flask, conda, pytest, mypy, pylint), Scala, Matlab, VBA
+- Docker, Jenkins, SonarQube, GitLab CI/CD
 - git, Linux, bash
 
 ## Education
