@@ -15,7 +15,7 @@ You can find more information on
 
 ## Get in touch
 
-Feel free to email me at `<firstname>.<lastname>@ifor.math.ethz.ch`. 
+Feel free to email me at `<firstname>.<lastname>@cdi.eu`. 
 You can also message me on LinkedIn.
 
 # I am passionate about...
