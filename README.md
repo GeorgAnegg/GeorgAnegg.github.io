@@ -12,7 +12,8 @@ I am currently a full-time MBA fellow at [CDI](https://cdi.eu) (expected graduat
 
 You can find more information on  
 [LinkedIn](https://www.linkedin.com/in/georg-anegg/) and 
-[my Research homepage](https://people.math.ethz.ch/~ganegg/).
+[my Research homepage](https://people.math.ethz.ch/~ganegg/).  
+I currently don't have any public projects on my [GitHub](https://github.com/georganegg) but I will change that soon.
 
 ## Get in touch
 
