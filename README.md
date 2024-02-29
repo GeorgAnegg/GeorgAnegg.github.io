@@ -1,7 +1,7 @@
 
 # About me
 
-I am currently a full-time MBA fellow at [CDI](https://cdi.eu) (expected graduation July 2024).
+I am currently a full-time MBA fellow at [CDI](https://cdi.eu).
 
 ## Short CV
 
@@ -10,10 +10,10 @@ I am currently a full-time MBA fellow at [CDI](https://cdi.eu) (expected graduat
 2016-2018 Head Tutor at AIMS  
 2012-2016 BA&MMath at University of Cambridge  
 
-You can find more information on  
+You can find more information on 
 [LinkedIn](https://www.linkedin.com/in/georg-anegg/) and 
 [my Research homepage](https://people.math.ethz.ch/~ganegg/).  
-I currently don't have any public projects on my [GitHub](https://github.com/georganegg) but I will change that soon.
+There are currently no public projects on my [GitHub](https://github.com/georganegg) but I will change that soon.
 
 ## Get in touch
 
