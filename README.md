@@ -92,3 +92,44 @@ Together with collaborators, I made progress on open problems by developing new 
 
 My doctoral advisor was Prof. Dr. Rico Zenklusen and my co-examiner was Prof. Dr. Ola Svensson. I [passed my doctoral exam](https://math.ethz.ch/news-and-events/news/d-math-news/2023/07/doctoral-exam-of-georg-anegg.html) on 05.07.2023.
 
+### Publications
+
+<p><strong>DAG Scheduling in the BSP Model</strong><br />
+with P. A. Papp, A. N. Yzelman<br />
+<a href="https://arxiv.org/abs/2303.05989">[arXiv]</a><br />
+submitted  </p>
+<img src="6.png"  height="150pt">
+<hr />
+<p><strong>Efficient Multi-Processor Scheduling in Increasingly Realistic Models</strong><br />
+with P. A. Papp, A. Karanasiou, A. N. Yzelman<br />
+SPAA 2024</p>
+<hr />
+<p><strong>Partitioning Hypergraphs is Hard: Models, Inapproximability, and Applications</strong><br />
+with P. A. Papp, A. N. Yzelman<br />
+<a href="https://arxiv.org/abs/2208.08257">[arXiv]</a><br />
+SPAA 2023    </p>
+<img src="5.png"  height="150pt">
+<hr />
+<p><strong>A Simple Combinatorial Algorithm for Robust Matroid Center</strong><br />
+with L. Vargas Koch, R. Zenklusen<br />
+<a href="https://arxiv.org/abs/2211.03601">[arXiv]</a><br />
+SOSA 2023 </p>
+<img src="4.png"  height="150pt">
+<hr />
+<p><strong>Techniques for Generalized Colorful k-Center Problems</strong><br />
+with L. Vargas Koch, R. Zenklusen<br />
+<a href="https://arxiv.org/abs/2207.02609">[arXiv]</a><br />
+ESA 2022</p>
+<img src="3.png"  height="150pt">
+<hr />
+<p><strong>Simpler and Stronger Approaches for Non-Uniform Hypergraph Matching and the Füredi, Kahn, and Seymour Conjecture</strong><br />
+with H. Angelidakis, R. Zenklusen<br />
+<a href="https://arxiv.org/abs/2009.00697">[arXiv]</a> <a href="https://polybox.ethz.ch/index.php/s/zlV4ILQIXBDzD6m">[SOSA talk]</a><br />
+SOSA 2021</p>
+<img src="2.png"  height="150pt">
+<hr />
+<p><strong>A Technique for Obtaining True Approximations for k-Center with Covering Constraints</strong><br />
+with H. Angelidakis, A. Kurpisz, R. Zenklusen<br />
+<a href="https://arxiv.org/abs/2007.03946">[arXiv]</a> <a href="https://www.youtube.com/watch?v=E7CUukJE_9o">[IPCO talk]</a> <a href="./ipco_poster.pdf">[poster]</a><br />
+IPCO 2020, Mathematical Programming 2022</p>
+<img src="1.png"  height="150pt">
