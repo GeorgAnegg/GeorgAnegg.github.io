@@ -35,25 +35,28 @@ Tools I have used include:
 
 I find learning and teaching to be among the most satisfying activities. 
 
-From a young age, my natural desire to understand deeply led me to mathematics and my tendency to optimize the learning process to teaching.
+From a young age, my natural desire to understand deeply has led me to mathematics and my desire to share my learning journey and optimize the learning process naturally led me to teaching.
 
 My academic journey has led me from mathematics to computer science to software to business administration.
 As a layperson, I enjoy learning about topics like
 Linguistics and Languages,
 Poetry,
-Creativity and Humor,
+Creativity, 
+Humor,
 Neuroscience,
 Philosophy of Science,
 Self-Discovery and Self-Knowledge,
 Board Game and Puzzle Strategy,
-Geopolitics.
+and Geopolitics.
 
 My teaching-related endeavors include the following.  
 
 2018-2023:  
 As a teaching assistant during my doctoral studies, I have given lectures, developed teaching and assessment materials, recruited and guided teaching assistants, and supervised eight student research projects.
+My doctoral advisor [received the Golden Owl](https://math.ethz.ch/news-and-events/news/d-math-news/2021/11/rico-zenklusen-2021-golden-owl.html) teaching award for courses I was also involved in.
 I also continued my own learning with courses on
 Interactive Teaching, 
+Student Project Supervision,
 Intercultural Teaching, and
 Educational Psychology.
 
@@ -98,38 +101,40 @@ My doctoral advisor was Prof. Dr. Rico Zenklusen and my co-examiner was Prof. Dr
 with P. A. Papp, A. N. Yzelman<br />
 <a href="https://arxiv.org/abs/2303.05989">[arXiv]</a><br />
 submitted  </p>
-<img src="6.png"  height="150pt">
+<img src="submitted1.png"  height="150pt">
 <hr />
 <p><strong>Efficient Multi-Processor Scheduling in Increasingly Realistic Models</strong><br />
 with P. A. Papp, A. Karanasiou, A. N. Yzelman<br />
+<a href="https://arxiv.org/abs/2404.15246">[arXiv]</a><br/>
 SPAA 2024</p>
+<img src="spaa2024.png"  height="150pt">
 <hr />
 <p><strong>Partitioning Hypergraphs is Hard: Models, Inapproximability, and Applications</strong><br />
 with P. A. Papp, A. N. Yzelman<br />
 <a href="https://arxiv.org/abs/2208.08257">[arXiv]</a><br />
-SPAA 2023    </p>
-<img src="5.png"  height="150pt">
+SPAA 2023</p>
+<img src="spaa2023.png"  height="150pt">
 <hr />
 <p><strong>A Simple Combinatorial Algorithm for Robust Matroid Center</strong><br />
 with L. Vargas Koch, R. Zenklusen<br />
 <a href="https://arxiv.org/abs/2211.03601">[arXiv]</a><br />
 SOSA 2023 </p>
-<img src="4.png"  height="150pt">
+<img src="sosa2023.png"  height="150pt">
 <hr />
 <p><strong>Techniques for Generalized Colorful k-Center Problems</strong><br />
 with L. Vargas Koch, R. Zenklusen<br />
 <a href="https://arxiv.org/abs/2207.02609">[arXiv]</a><br />
 ESA 2022</p>
-<img src="3.png"  height="150pt">
+<img src="esa2022.png"  height="150pt">
 <hr />
 <p><strong>Simpler and Stronger Approaches for Non-Uniform Hypergraph Matching and the Füredi, Kahn, and Seymour Conjecture</strong><br />
 with H. Angelidakis, R. Zenklusen<br />
-<a href="https://arxiv.org/abs/2009.00697">[arXiv]</a> <a href="https://polybox.ethz.ch/index.php/s/zlV4ILQIXBDzD6m">[SOSA talk]</a><br />
+<a href="https://arxiv.org/abs/2009.00697">[arXiv]</a> <a href="https://polybox.ethz.ch/index.php/s/zlV4ILQIXBDzD6m">[conference presentation]</a><br />
 SOSA 2021</p>
-<img src="2.png"  height="150pt">
+<img src="sosa2021.png"  height="150pt">
 <hr />
 <p><strong>A Technique for Obtaining True Approximations for k-Center with Covering Constraints</strong><br />
 with H. Angelidakis, A. Kurpisz, R. Zenklusen<br />
-<a href="https://arxiv.org/abs/2007.03946">[arXiv]</a> <a href="https://www.youtube.com/watch?v=E7CUukJE_9o">[IPCO talk]</a> <a href="./ipco_poster.pdf">[poster]</a><br />
+<a href="https://arxiv.org/abs/2007.03946">[arXiv (journal version)]</a> <a href="https://www.youtube.com/watch?v=E7CUukJE_9o">[conference presentation]</a> <a href="ipco2020_poster.pdf">[poster]</a><br />
 IPCO 2020, Mathematical Programming 2022</p>
-<img src="1.png"  height="150pt">
+<img src="ipco2020.png"  height="150pt">
