@@ -1,19 +1,19 @@
 
 # About me
 
-I am currently a full-time MBA fellow at [CDI](https://cdi.eu).
+I'm currently a full-time MBA fellow at [CDI](https://cdi.eu).
 
 ## Short CV
 
-2023-2024 MBA at CDI  
-2018-2023 PhD at ETH Zurich  
-2016-2018 Head Tutor at AIMS  
+2023-2024 MBA at CDI Munich   
+2018-2023 PhD at ETH Zurich   
+2016-2018 Head Tutor at AIMS South Africa   
 2012-2016 BA&MMath at University of Cambridge  
 
 You can find more information on 
 [LinkedIn](https://www.linkedin.com/in/georg-anegg/) and 
-[my Research homepage](https://people.math.ethz.ch/~ganegg/).  
-There are currently no public projects on my [GitHub](https://github.com/georganegg) but I will change that soon.
+[my research homepage](https://people.math.ethz.ch/~ganegg/).  
+My [GitHub](https://github.com/georganegg) currently doesn't have many repositories that are publicly visible but I will change that by the end of 2024.
 
 ## Get in touch
 
@@ -35,9 +35,9 @@ Tools I have used include:
 
 I find learning and teaching to be among the most satisfying activities. 
 
-From a young age, my natural desire to understand deeply has led me to mathematics and my desire to share my learning journey and optimize the learning process naturally led me to teaching.
+From a young age, my natural desire to understand deeply has led me to mathematics and my desire to share my joy for learning naturally led me to teaching.
 
-My academic journey has led me from mathematics to computer science to software to business administration.
+My academic journey took me from mathematics to computer science to software to business administration.
 As a layperson, I enjoy learning about topics like
 Linguistics and Languages,
 Poetry,
@@ -54,7 +54,7 @@ My teaching-related endeavors include the following.
 2018-2023:  
 As a teaching assistant during my doctoral studies, I have given lectures, developed teaching and assessment materials, recruited and guided teaching assistants, and supervised eight student research projects.
 My doctoral advisor [received the Golden Owl](https://math.ethz.ch/news-and-events/news/d-math-news/2021/11/rico-zenklusen-2021-golden-owl.html) teaching award for courses I was also involved in.
-I also continued my own learning with courses on
+At ETH, I also continued my own learning with courses on
 Interactive Teaching, 
 Student Project Supervision,
 Intercultural Teaching, and
@@ -64,7 +64,7 @@ Because of my passion for educational equity, I contributed to academic outreach
 
 2016-2018:  
 I was the Head Tutor at the [African Institute for Mathematical Sciences](https://aims.ac.za/) in Cape Town, South Africa. 
-As Head Tutor, I was responsible for all teaching-related activities in a graduate mathematics degree program. I led the team of eight graduate teaching assistans and also contributed to the teaching and mentoring myself.
+As Head Tutor, I was responsible for all teaching-related activities in a graduate mathematics degree program. I led the team of eight graduate teaching assistants and also contributed to the teaching and mentoring.
 You can read about it [here](https://ethambassadors.ethz.ch/2019/10/17/the-future-is-african-a-unique-teaching-experience-in-south-africa/).
 
 2012-2014:  
