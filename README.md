@@ -136,5 +136,5 @@ SOSA 2021</p>
 <p><strong>A Technique for Obtaining True Approximations for k-Center with Covering Constraints</strong><br />
 with H. Angelidakis, A. Kurpisz, R. Zenklusen<br />
 <a href="https://arxiv.org/abs/2007.03946">[arXiv (journal version)]</a> <a href="https://www.youtube.com/watch?v=E7CUukJE_9o">[conference presentation]</a> <a href="ipco2020_poster.pdf">[poster]</a><br />
-IPCO 2020, Mathematical Programming 2022</p>
+IPCO 2020 (conference), Mathematical Programming 2022 (journal)</p>
 <img src="ipco2020.png"  height="150pt">
