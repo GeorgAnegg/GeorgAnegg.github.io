@@ -1,8 +1,6 @@
 
 # About me
 
-I'm currently a full-time MBA fellow at [CDI](https://cdi.eu).
-
 ## Short CV
 
 2023-2024 MBA at CDI Munich   
@@ -35,7 +33,7 @@ Tools I have used include:
 
 I find learning and teaching to be among the most satisfying activities. 
 
-From a young age, my natural desire to understand deeply has led me to mathematics and my desire to share my joy for learning naturally led me to teaching.
+From a young age, my natural curiosity to understand deeply has led me to mathematics and my desire to share my joy for learning led me to teaching.
 
 My academic journey took me from mathematics to computer science to software to business administration.
 As a layperson, I enjoy learning about topics like
@@ -53,14 +51,14 @@ My teaching-related endeavors include the following.
 
 2018-2023:  
 As a teaching assistant during my doctoral studies, I have given lectures, developed teaching and assessment materials, recruited and guided teaching assistants, and supervised eight student research projects.
-My doctoral advisor [received the Golden Owl](https://math.ethz.ch/news-and-events/news/d-math-news/2021/11/rico-zenklusen-2021-golden-owl.html) teaching award for courses I was also involved in.
-At ETH, I also continued my own learning with courses on
+My doctoral advisor [received the Golden Owl teaching award](https://math.ethz.ch/news-and-events/news/d-math-news/2021/11/rico-zenklusen-2021-golden-owl.html) for courses I contributed to.
+At ETH, I also continued my own learning journey with courses on
 Interactive Teaching, 
 Student Project Supervision,
 Intercultural Teaching, and
-Educational Psychology.
+Educational Psychology, among others.
 
-Because of my passion for educational equity, I contributed to academic outreach and partnership efforts including [this networking event](https://indico.cern.ch/event/962934/) I co-organized and [this teaching endeavour](https://eth4d.ethz.ch/Learning/AshesiETH-Master.html) in Ghana, which you can read about [here](https://math.ethz.ch/news-and-events/news/d-math-news/2022/07/teaching-mathematics-in-africa.html).
+As I am passionate about creating educational equity, I contributed to academic outreach and partnership efforts including [this networking event](https://indico.cern.ch/event/962934/) I co-organized and [this teaching endeavour](https://eth4d.ethz.ch/Learning/AshesiETH-Master.html) in Ghana, which you can read about [here](https://math.ethz.ch/news-and-events/news/d-math-news/2022/07/teaching-mathematics-in-africa.html).
 
 2016-2018:  
 I was the Head Tutor at the [African Institute for Mathematical Sciences](https://aims.ac.za/) in Cape Town, South Africa. 
