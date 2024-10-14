@@ -8,14 +8,12 @@
 2016-2018 Head Tutor at AIMS South Africa   
 2012-2016 BA&MMath at University of Cambridge  
 
-You can find more information on 
-[LinkedIn](https://www.linkedin.com/in/georg-anegg/) and 
-[my research homepage](https://people.math.ethz.ch/~ganegg/).  
-My [GitHub](https://github.com/georganegg) currently doesn't have many repositories that are publicly visible but I will change that by the end of 2024.
+See also my [LinkedIn](https://www.linkedin.com/in/georg-anegg/).
+My [GitHub](https://github.com/georganegg) currently doesn't have many repositories that are publicly visible but I'm trying to change that soon.
 
 ## Get in touch
 
-Feel free to email me at `<firstname>.<lastname>@cdi.eu`. 
+Feel free to email me at `<firstname>.<lastname>@gmail.com`. 
 You can also message me on LinkedIn.
 
 # I am passionate about...
