@@ -35,7 +35,7 @@ From a young age, my natural curiosity to understand deeply has led me to mathem
 
 My academic journey took me from mathematics to computer science to software to business administration.
 As a layperson, I enjoy learning about topics like
-Linguistics and Languages,
+Linguistics,
 Poetry,
 Creativity, 
 Humor,
