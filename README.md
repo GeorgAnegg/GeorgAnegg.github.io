@@ -97,7 +97,7 @@ My doctoral advisor was Prof. Dr. Rico Zenklusen and my co-examiner was Prof. Dr
 with P. A. Papp, A. N. Yzelman<br />
 <a href="https://arxiv.org/abs/2303.05989">[arXiv]</a><br />
 SOFSEM 2025</p>
-<img src="submitted1.png"  height="150pt">
+<img src="sofsem2025.png"  height="150pt">
 <hr />
 <p><strong>Efficient Multi-Processor Scheduling in Increasingly Realistic Models</strong><br />
 with P. A. Papp, A. Karanasiou, A. N. Yzelman<br />
