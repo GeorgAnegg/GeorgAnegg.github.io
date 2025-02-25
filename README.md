@@ -96,7 +96,7 @@ My doctoral advisor was Prof. Dr. Rico Zenklusen and my co-examiner was Prof. Dr
 <p><strong>DAG Scheduling in the BSP Model</strong><br />
 with P. A. Papp, A. N. Yzelman<br />
 <a href="https://arxiv.org/abs/2303.05989">[arXiv]</a><br />
-SOFSEM 2025</p>
+SOFSEM 2025 (Best Paper)</p>
 <img src="sofsem2025.png"  height="150pt">
 <hr />
 <p><strong>Efficient Multi-Processor Scheduling in Increasingly Realistic Models</strong><br />
@@ -125,7 +125,7 @@ ESA 2022</p>
 <hr />
 <p><strong>Simpler and Stronger Approaches for Non-Uniform Hypergraph Matching and the Füredi, Kahn, and Seymour Conjecture</strong><br />
 with H. Angelidakis, R. Zenklusen<br />
-<a href="https://arxiv.org/abs/2009.00697">[arXiv]</a> <a href="https://polybox.ethz.ch/index.php/s/zlV4ILQIXBDzD6m">[conference presentation]</a><br />
+<a href="https://arxiv.org/abs/2009.00697">[arXiv]</a> <a href="https://drive.google.com/file/d/1BUfK1jBXXlXF67TE6leGeeVlKvI6u9fQ/view?usp=sharing">[conference presentation]</a><br />
 SOSA 2021</p>
 <img src="sosa2021.png"  height="150pt">
 <hr />
